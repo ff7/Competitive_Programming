@@ -1,2 +1,5 @@
 # Competitive_Programming
-My preparation for Competitive Programming tournaments
+
+This repo will contain my jorney of problem solving in order to evolve as a student aswell as preparing me for some algorithm competitions I'm planning to participate.
+Firstly I will solve problems from the USACO Training Gateway, available from anyone here: http://train.usaco.org/usacogate
+I will also leave in this repo a handbook about competitive programming which my hopes are to help those of you who are interested in this field.
